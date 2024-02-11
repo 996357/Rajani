@@ -1,0 +1,7 @@
+[user]
+	name = rajani
+	mail = tandraraja2010@gmail.com
+[core]
+	editor = vim
+[color]
+	ui = true
